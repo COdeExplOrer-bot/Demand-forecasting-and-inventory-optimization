@@ -1,0 +1,4 @@
+sku_id,avg_daily_demand,forecast_rmse,safety_stock_units,reorder_point_units,economic_order_qty_units,service_level_target,lead_time_days
+SKU_ELEC_001,175.9,64.7,238.0,1117.0,896.0,0.95,5
+SKU_FASH_001,285.9,101.6,374.0,1803.0,1142.0,0.95,5
+SKU_HOME_001,101.4,17.8,65.0,572.0,680.0,0.95,5
